@@ -40,7 +40,8 @@ Data preprocessing improves model accuracy
 Trained Machine Learning Model
 Prediction results (Placed / Not Placed)
 Visualization of decision boundary
-![image_alt]{}
+![image_alt]{<img width="981" height="525" alt="image" src="https://github.com/user-attachments/assets/902b6186-9ee6-4efa-86f8-b2897a288a3a" />
+}
 
 **How to Run This Project**
 
